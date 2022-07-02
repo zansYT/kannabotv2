@@ -52,23 +52,23 @@ global.sdc = 'https://github.com/Bot-Mdnew'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = 'minta owner'
+global.povo = 'minta owner'
+global.pgopay = 'minta owner'
+global.ppulsa = 'minta owner'
+global.ppulsa2 = 'minta owner'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6281939180428'
+global.nomorown = '62882002284704'
+global.namebot = 'ZANSB0T'
+global.nameown = 'ZANS STORE'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['62882002284704', 'ZANS STORE', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,7 +113,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
+global.wm = '「 ZANSBotz |ZANS Offcial⁩ 」' //Main Watermark
 global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
 global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
